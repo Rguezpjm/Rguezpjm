@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Jose Rodriguez / Analista de Datos ✨ </h1> 
+<h1 align="center">Hello 👋  I'm Jose Rodriguez / Data Analyst ✨ </h1> 
 
 <p align="center">
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="#"  /></a>
@@ -7,24 +7,28 @@
 <a href = "mailto:#" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="#"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Tecnologo en Seguridad Informatica
+🎓 IT Security Technologist
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 Small Content Creator who Transmits his Knowledge through Social Medias 📚😵
 
-💻 unos cuántos años de experiencia en el proceso de Ciencias de los Datos (solo voy a decir más de 5 para no deschavar mi edad 🙈)
+💻 Some years experience in Data Analyst industry (About 4 years of experience, don't count my age 🙈😃)
 
-📝 roles en el ámbito:  líder... Instructor en Ciencia de los DAtos... Cienda de datos en BI... Programador freelance... y en un futuro quién sabe ☺️
+📝 Experience Rules:  
+          1. Leader... 
+          2. Instructor of Data Analyst... 
+          3. Data Analyst with BI (Power BI)... 
+          4. Developer FreeLancer... 
 
-📫 Contacto: **##**
+📫 Email: **##**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Known technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="Center">
   <a href="#">
