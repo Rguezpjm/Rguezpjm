@@ -11,7 +11,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 IT Security Technologist
+🎓 IT Security Technologist & Data Analyst Ing
 
 🎥 Small Content Creator who Transmits his Knowledge through Social Medias 📚😵
 
